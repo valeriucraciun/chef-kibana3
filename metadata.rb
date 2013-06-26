@@ -1,4 +1,4 @@
-name			 "kibana3"
+name		 "kibana3"
 maintainer       "Valeriu Craciun"
 maintainer_email "craciun_val@yahoo.com"
 license          "All rights reserved"
